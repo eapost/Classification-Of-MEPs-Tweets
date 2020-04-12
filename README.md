@@ -1,4 +1,4 @@
-# ClassificationOfMEPsTweets
+# Classification-Of-MEPs-Tweets
 
 You will investigate a dataset of tweets made by Members of the European Parliament. You will use data collected by Darko Cherepnalkoski, Andreas Karpf, Igor Mozetič, and Miha Grčar for their paper Cohesion and Coalition Formation in the European Parliament: Roll-Call Votes and Twitter Activities (while you are at it, why not read the paper as well?).
 
